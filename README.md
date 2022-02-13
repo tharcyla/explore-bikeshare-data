@@ -5,7 +5,7 @@ February 10, 2022
 Explore US Bikeshare Data 
 
 ### Description
-This project was undertaken as part of Udacity's Programming for Data Science with Python.
+This project was undertaken as part of Udacity's [Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104).
 
 It mainly uses Python to understand U.S. bikeshare data using data
 provided by [Motivate](https://www.motivateco.com/).
